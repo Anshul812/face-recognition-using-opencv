@@ -1,5 +1,5 @@
 # face-recognition-using-opencv
-Here you will find the implementation of face recogntion in three steps including dataset gathering follwed by training on the images gathered followed by real time face recogntion.
+Here you will find the implementation of face recognition in three steps including dataset gathering followed by training on the images gathered followed by real time face recogntion.
 
 # How to run:-
 - run the 01_face_detect.py which will take the dataset of your faces.
